@@ -36,8 +36,8 @@ excerpt_separator: <!--more-->
 paginate: 10
 
 #### Site
-title : Stelin技术博客
-tagline: 专注web架构和性能
+title : Stelin同学
+tagline: stelin技术博客
 assets: /assets
 baseurl:
 
