@@ -308,7 +308,7 @@ input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit
 }
 }body >header {
 	width:100%;
-	-webkit- :2px 4px 5px rgba(3,3,3,0.2);
+	-webkit- :1px 1px 3px rgba(3,3,3,0.2);
 	box-shadow:1px 1px 3px rgba(3,3,3,0.2);
 	background:url("../../") center #2ca6cb;
 	color:#fff;
