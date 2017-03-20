@@ -62,8 +62,6 @@ widgets:
 - category
 - tag
 - links
-- weibo
-- douban
 - rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
@@ -83,7 +81,7 @@ banner_img: #img/banner.jpg ## size:1920px*200px+. Banner Picture
 #### index post is expanding or not 
 index:
   expand: true           ## default is unexpanding,so you can only see the short description of each post.
-  excerpt_link: Read More  
+  excerpt_link: "阅读全文"  
 
 close_aside: true  #close sidebar in post page if true
 mathjax: false     #enable mathjax if true
@@ -118,7 +116,7 @@ toc:
 #### Links
 links:
   CoolShell: http://coolshell.cn
-  Jark's Blog: http://wuchong.me
+  Jark's Blog: http://stelin.me
 
 #excerpt_separator: <!--more-->
 
