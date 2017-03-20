@@ -94,7 +94,7 @@ author:
   tsina: stelin      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   douban: stelin     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   zhihu: stelin      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email: simpleyyt@gmail.com      ## e.g. imjark@gmail.com
+  email: phpcrazy@126.com      ## e.g. imjark@gmail.com
   twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github: stelin     ## e.g. stelin for https://github.com/stelin
   facebook:   ## e.g. imjark for https://facebook.com/imjark
@@ -118,7 +118,7 @@ links:
 #excerpt_separator: <!--more-->
 
 #### Comment
-duoshuo_shortname: simpleyyt   ## e.g. wuchong   your duoshuo short name.
+duoshuo_shortname: stelin   ## e.g. wuchong   your duoshuo short name.
 disqus_shortname:     ## e.g. wuchong   your disqus short name.
 
 #### Share button
