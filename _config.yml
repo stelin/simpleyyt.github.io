@@ -58,7 +58,6 @@ menu:
 
 #### Widgets
 widgets: 
-- github-card
 - category
 - tag
 - links
