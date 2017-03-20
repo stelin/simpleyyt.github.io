@@ -60,8 +60,6 @@ menu:
 widgets: 
 - category
 - tag
-- links
-- rss
 ## provide seven widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo,douban
 
 
