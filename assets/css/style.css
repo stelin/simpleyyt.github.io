@@ -358,7 +358,7 @@ input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit
 }
 }#textlogo {
 	float:left;
-	width:16%;
+	width:75%;
 	margin-left:.5em;
 	font-size: 0.6em;
 }
