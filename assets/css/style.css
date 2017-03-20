@@ -358,7 +358,7 @@ input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit
 }
 }#textlogo {
 	float:left;
-	width:35%;
+	width:16%;
 	margin-left:.5em;
 	font-size: 0.6em;
 }
@@ -430,7 +430,8 @@ input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit
 	header nav {
 	float:left;
 	width:auto;
-	max-height:none
+	max-height:none;
+	padding-top: 0.3em;
 }
 }@media only screen and (min-width:1024px) {
 	header nav ul {
