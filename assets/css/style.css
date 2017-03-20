@@ -782,7 +782,7 @@ header nav {
 }
 @media only screen and (min-width:1024px) {
 	article header.article-info >h1 {
-	font-size:200%;
+	
 	padding-top:.3em
 }
 }article header.article-info >p.article-author {
