@@ -2188,3 +2188,24 @@ article .article-content img.emoji {
 .github-card {
 	margin-top: 1.5em;
 }
+
+.menu{
+	height: 50px;
+	background: white;
+}
+
+.blogLogo{
+	width: 150px;
+	text-align: center;
+	float: left;
+}
+
+.blogMenu{
+	float: right;
+	width: 600px;
+}
+
+.blogMenu ul li{
+	text-decoration: none;
+	float: right;
+}
