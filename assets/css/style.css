@@ -2226,3 +2226,37 @@ article .article-content img.emoji {
 .blogDesc{
 	height: 200px;
 }
+
+.blogDesc h2{
+	font-size: 22px;color: rgba(255, 255, 255, 0.8);margin-left: 50px;margin-top: 36px;
+}
+.blogDesc p {
+	margin-top: 6px;margin-left: 50px;
+}
+
+.blogDesc p a{
+	color:white;display: inline-block;
+}
+
+.blogDesc p a:hover{
+	text-decoration: underline;
+}
+.tools{
+	margin-top: 6px;
+    margin-left: 50px;
+}
+
+.tools a{
+	font-size: 26px;display: inline-block;color: rgba(255, 255, 255, 0.8);
+}
+
+.tools a:hover{
+	color:white;
+}
+
+
+
+
+
+
+
