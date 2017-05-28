@@ -2228,19 +2228,20 @@ article .article-content img.emoji {
 }
 
 .blogDesc h2{
-	font-size: 22px;color: rgba(255, 255, 255, 0.8);margin-left: 50px;margin-top: 36px;
+	font-size: 22px;color: rgba(255, 255, 255, 0.8);margin-left: 50px;margin-top: 34px;
 }
 .blogDesc p {
 	margin-top: 6px;margin-left: 50px;
 }
 
 .blogDesc p a{
-	color:white;display: inline-block;
+	color: rgba(255, 255, 255, 0.8);
+	display: inline-block;
 	margin-bottom: 2px;
 }
 
 .blogDesc p a:hover{
-	color: #00CCCC;
+	color: white;
 }
 .tools{
 	margin-top: 6px;
