@@ -2236,10 +2236,11 @@ article .article-content img.emoji {
 
 .blogDesc p a{
 	color:white;display: inline-block;
+	margin-bottom: 2px;
 }
 
 .blogDesc p a:hover{
-	text-decoration: underline;
+	color: #00CCCC;
 }
 .tools{
 	margin-top: 6px;
@@ -2248,6 +2249,7 @@ article .article-content img.emoji {
 
 .tools a{
 	font-size: 26px;display: inline-block;color: rgba(255, 255, 255, 0.8);
+	margin-right: 8px;
 }
 
 .tools a:hover{
