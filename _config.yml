@@ -46,7 +46,6 @@ language: zh-CN    ## blog site languages: en, zh-CN, zh-TW
 
 #### Menu
 menu:
-  Me: /about
   导航: /archives
   存储: /categories/#数据存储
   架构: /tags/#架构
